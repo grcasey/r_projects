@@ -1,2 +1,3 @@
 # r_projects
-Collection of R-projects
+Collection of R projects.
+
